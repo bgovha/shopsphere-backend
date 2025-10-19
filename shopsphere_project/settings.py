@@ -54,6 +54,8 @@ INSTALLED_APPS = [
     'products',
     'orders',
     
+    'drf_yasg',
+    
 ]
 
 MIDDLEWARE = [
